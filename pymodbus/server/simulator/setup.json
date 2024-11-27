@@ -15,7 +15,7 @@
                 "co size": 0,
                 "di size": 0,
                 "hr size": 0,
-                "ir size": 330,
+                "ir size": 327,
                 "shared blocks": false,
                 "type exception": true,
                 "defaults": {
@@ -39,7 +39,7 @@
             "write": [],
             "bits": [],
             "uint16": [
-                {"addr": [0, 330], "value": 0, "action": null}
+                {"addr": [0, 326], "value": 0, "action": null}
             ],
             "uint32": [],
             "float32": [],
